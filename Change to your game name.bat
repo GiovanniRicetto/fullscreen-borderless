@@ -17,7 +17,7 @@ qres.exe /x:%width% /y:%height%
 
 :: Run your program or executable (replace 'your_program.exe' with the path to your executable)
 echo Running the program...
-start "Your Game" "your_game_location.exe"
+start "Your Game" "C:/Games/your_game_location.exe"
 
 :WAITFORPROGRAM (replace 'your_game.exe' with the executable name, look on Task Manager)
 :: Wait for the program to complete
