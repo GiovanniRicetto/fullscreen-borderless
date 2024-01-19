@@ -8,3 +8,11 @@
  
 - I didn't tested on Steam, Epic, GoG Games; Can run but I don't know (ツ)_/¯
 - DON'T USE FOR ONLINE GAMING. Some voices on my head say it's fine but others "That wizardry can ban". Just for off-line games OKAY????
+
+# How to run?
+
+- Download all repository
+- Put on game root
+- Edit .bat (have instructions inside)
+- For some peacock beautify
+- - Send .bat to desktop as shortcut and change icon to look like game executable
