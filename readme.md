@@ -6,7 +6,8 @@
 - You don't need big knowledge on programming to edit .bat file. Notepad it's all you need.
 - - You are using GitHub, so... I really think you know what are you doing hehe
  
-- I didn't tested on Steam, Epic, GoG Games; Can run but I don't know (ツ)_/¯
+- I didn't tested on Steam and Epic; Can run but I don't know (ツ)_/¯
+- Works good on GoG Games!
 - DON'T USE FOR ONLINE GAMING. Some voices on my head say it's fine but others "That wizardry can ban". Just for off-line games OKAY????
 
 # How to run?
